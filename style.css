@@ -1,0 +1,16 @@
+.line{
+    width:150px;
+    height:10px;
+    background-color: black;
+}
+p{
+    max-width: 550px;
+    font-size: 18px;
+    text-align: justify;
+}
+img{
+  border:3px dashed black;
+}
+body{
+    background: linear-gradient(#b92b27, #1565C0);
+}
